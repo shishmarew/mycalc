@@ -1,4 +1,5 @@
 // pages/login.js
+import { Klee_One } from 'next/font/google'
 import { supabase } from '../lib/supabaseClient'
 
 export default function Login() {
